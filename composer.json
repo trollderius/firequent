@@ -7,7 +7,7 @@
         "grpc/grpc": "^v1.1.0",
         "google/protobuf": "^v3.3.0",
         "google/cloud-firestore": "^1.5",
-        "Illuminate\Support\Traits\ForwardsCalls": ">=5"
+        "slluminate/support": ">=5"
     },
     "license": "MIT",
     "authors": [
